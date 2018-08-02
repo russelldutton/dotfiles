@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+brightness=$(light -G)
+
+echo $brightness
+
+if [[ $brightness != 100.00 ]]; then
+	light -S 100
+else
+	light -S 25
+fi

@@ -1,0 +1,22 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1529408761725038-1</unique-id>
+	<command>/usr/bin/termite %f</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Open as root</name>
+	<unique-id>1531766211449237-1</unique-id>
+	<command>gksu thunar %f</command>
+	<description>Open current location in root profile</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>

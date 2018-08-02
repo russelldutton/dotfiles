@@ -1,0 +1,36 @@
+Height 768=744
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1366=1366
+
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 768=710
+Height 900=842
+State=AAAA/wAAAAD9AAAAAAAABaAAAAMRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1366
+Width 1440=1440
+Window-Maximized 768x1366=true
+Window-Maximized 900x1440=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Uni/2018/Semester 2/COS330/[Charles_P._Pfleeger,_Shari_Lawrence_Pfleeger]_Ana(b-ok.xyz).pdf
+File2[$e]=$HOME/Documents/Uni/2018/Semester 2/COS330/slides/CH2.pdf
+File3[$e]=$HOME/texmf/tex/latex/subfig/subfig/subfig.pdf
+File4[$e]=$HOME/Documents/Uni/cog_a5careerguide_handbook_2018_js-12.zp155424.pdf
+File5[$e]=$HOME/Documents/Uni/2018/UP_ACAD_RCD.pdf
+File6[$e]=$HOME/Dropbox/COS 110 Pracs 2018/Prac 2/COS110_2_3.pdf
+File7[$e]=$HOME/.config/install.conf.yaml
+File8[$e]=$HOME/.xinitrc
+File9[$e]=$HOME/.ncmpcpp/current_song
+Name1[$e]=[Charles_P._Pfleeger,_Shari_Lawrence_Pfleeger]_Ana(b-ok.xyz).pdf
+Name2[$e]=CH2.pdf
+Name3[$e]=subfig.pdf
+Name4[$e]=cog_a5careerguide_handbook_2018_js-12.zp155424.pdf
+Name5[$e]=UP_ACAD_RCD.pdf
+Name6[$e]=COS110_2_3.pdf
+Name7[$e]=install.conf.yaml
+Name8[$e]=.xinitrc
+Name9[$e]=current_song

@@ -1,0 +1,6 @@
+--geo-bypass-country US
+--hls-prefer-ffmpeg
+-o '~/Music/youtube-dl/%(playlist)s/%(title)s.%(ext)s'
+-f mp3
+--add-metadata
+-i

@@ -1,0 +1,14 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.gitconfig: gitconfig
+    ~/.zshrc: zshrc
+    ~/.zshrc.local: zshrc.local
+    ~/.xinitrc: xinitrc
+    ~/.nvidia-settings-rc: nvidia-settings-rc
+    ~/.xprofile: xprofile

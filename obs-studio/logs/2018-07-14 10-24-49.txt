@@ -1,0 +1,118 @@
+10:24:49 AM.680: CPU Name: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+10:24:49 AM.680: CPU Speed: 2119.307MHz
+10:24:49 AM.680: Physical Cores: 2, Logical Cores: 4
+10:24:49 AM.680: Physical Memory: 7891MB Total, 3379MB Free
+10:24:49 AM.680: Kernel Version: Linux 4.17.5-1-ARCH
+10:24:49 AM.680: Distribution: "Arch Linux" Unknown
+10:24:49 AM.681: Portable mode: false
+10:24:49 AM.708: OBS 21.1.2-1 (linux)
+10:24:49 AM.708: ---------------------------------
+10:24:49 AM.734: ---------------------------------
+10:24:49 AM.734: audio settings reset:
+10:24:49 AM.734: 	samples per sec: 44100
+10:24:49 AM.734: 	speakers:        2
+10:24:49 AM.740: ---------------------------------
+10:24:49 AM.740: Initializing OpenGL...
+10:24:49 AM.798: Loading up OpenGL on adapter NVIDIA Corporation GeForce 820M/PCIe/SSE2
+10:24:49 AM.798: OpenGL loaded successfully, version 3.2.0 NVIDIA 390.67, shading language 1.50 NVIDIA via Cg compiler
+10:24:49 AM.808: ---------------------------------
+10:24:49 AM.809: video settings reset:
+10:24:49 AM.809: 	base resolution:   1366x768
+10:24:49 AM.809: 	output resolution: 908x512
+10:24:49 AM.809: 	downscale filter:  Bicubic
+10:24:49 AM.809: 	fps:               30/1
+10:24:49 AM.809: 	format:            NV12
+10:24:49 AM.809: 	YUV mode:          601/Partial
+10:24:49 AM.809: Audio monitoring device:
+10:24:49 AM.809: 	name: Default
+10:24:49 AM.809: 	id: default
+10:24:49 AM.809: ---------------------------------
+10:24:49 AM.812: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+10:24:49 AM.812: 
+10:24:49 AM.812: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+10:24:49 AM.817: No blackmagic support
+10:24:49 AM.829: NVENC supported
+10:24:49 AM.830: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.1: cannot open shared object file: No such file or directory
+10:24:49 AM.830: 
+10:24:49 AM.830: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+10:24:49 AM.837: VLC found, VLC video source enabled
+10:24:49 AM.837: ---------------------------------
+10:24:49 AM.837:   Loaded Modules:
+10:24:49 AM.837:     vlc-video.so
+10:24:49 AM.837:     text-freetype2.so
+10:24:49 AM.837:     rtmp-services.so
+10:24:49 AM.837:     obs-x264.so
+10:24:49 AM.837:     obs-transitions.so
+10:24:49 AM.837:     obs-outputs.so
+10:24:49 AM.837:     obs-filters.so
+10:24:49 AM.837:     obs-ffmpeg.so
+10:24:49 AM.837:     linux-v4l2.so
+10:24:49 AM.837:     linux-pulseaudio.so
+10:24:49 AM.837:     linux-jack.so
+10:24:49 AM.837:     linux-decklink.so
+10:24:49 AM.837:     linux-capture.so
+10:24:49 AM.837:     linux-alsa.so
+10:24:49 AM.837:     image-source.so
+10:24:49 AM.837: ---------------------------------
+10:24:49 AM.837: ==== Startup complete ===============================================
+10:24:49 AM.837: Service '' not found
+10:24:49 AM.839: All scene data cleared
+10:24:49 AM.839: ------------------------------------------------
+10:24:49 AM.842: pulse-input: Server name: 'pulseaudio 12.0'
+10:24:49 AM.842: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+10:24:49 AM.842: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+10:24:49 AM.844: pulse-input: Server name: 'pulseaudio 12.0'
+10:24:49 AM.844: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+10:24:49 AM.845: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+10:24:49 AM.848: xshm-input: Geometry 1280x720 @ 1280,0
+10:24:49 AM.849: pulse-input: Server name: 'pulseaudio 12.0'
+10:24:49 AM.849: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+10:24:49 AM.849: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+10:24:49 AM.852: Switched to scene 'Scene'
+10:24:49 AM.852: ------------------------------------------------
+10:24:49 AM.852: Loaded scenes:
+10:24:49 AM.852: - scene 'Scene':
+10:24:49 AM.852:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+10:24:49 AM.852:     - source: 'Screen Capture (XSHM)' (xshm_input)
+10:24:49 AM.852: ------------------------------------------------
+10:24:50 AM.358: adding 23 milliseconds of audio buffering, total audio buffering is now 23 milliseconds
+10:24:50 AM.849: adding 23 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+10:26:25 AM.968: adding 46 milliseconds of audio buffering, total audio buffering is now 92 milliseconds
+10:32:44 AM.030: adding 23 milliseconds of audio buffering, total audio buffering is now 116 milliseconds
+02:34:23 PM.177: xshm-input: Geometry 1280x720 @ 0,0
+02:34:31 PM.089: ---------------------------------
+02:34:31 PM.089: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:34:31 PM.089: [x264 encoder: 'simple_h264_recording'] profile: high
+02:34:31 PM.089: [x264 encoder: 'simple_h264_recording'] settings:
+02:34:31 PM.089: 	rate_control: CRF
+02:34:31 PM.089: 	bitrate:      0
+02:34:31 PM.089: 	buffer size:  0
+02:34:31 PM.089: 	crf:          19
+02:34:31 PM.089: 	fps_num:      30
+02:34:31 PM.089: 	fps_den:      1
+02:34:31 PM.089: 	width:        908
+02:34:31 PM.089: 	height:       512
+02:34:31 PM.089: 	keyint:       250
+02:34:31 PM.089: 
+02:34:31 PM.091: ---------------------------------
+02:34:31 PM.092: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 128, channels: 2, channel_layout: 3
+02:34:31 PM.092: 
+02:34:31 PM.099: ==== Recording Start ===============================================
+02:34:31 PM.099: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/russell/screen_recording/2018-07-14 14-34-31.mp4'...
+04:28:13 PM.898: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/russell/screen_recording/2018-07-14 14-34-31.mp4' stopped
+04:28:13 PM.898: Output 'simple_file_output': stopping
+04:28:13 PM.898: Output 'simple_file_output': Total frames output: 204658
+04:28:13 PM.899: Output 'simple_file_output': Total drawn frames: 204643 (204684 attempted)
+04:28:13 PM.899: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 41 (0.0%)
+04:28:13 PM.899: ==== Recording Stop ================================================
+04:28:16 PM.594: ==== Shutting down ==================================================
+04:28:16 PM.596: Switched to scene '(null)'
+04:28:16 PM.597: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+04:28:16 PM.597: pulse-input: Got 771276 packets with 475521032 frames
+04:28:16 PM.600: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+04:28:16 PM.600: pulse-input: Got 1759557 packets with 475629322 frames
+04:28:16 PM.600: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+04:28:16 PM.600: pulse-input: Got 771277 packets with 475521536 frames
+04:28:16 PM.610: All scene data cleared
+04:28:16 PM.610: ------------------------------------------------
+04:28:16 PM.616: Failed to fetch parent window geometry!

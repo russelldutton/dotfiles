@@ -1,0 +1,60 @@
+INFO 7/16/2018, 12:16:23 PM  luanchFromDiffVersion, pre version is undefined
+INFO 7/16/2018, 12:16:23 PM  overwriteThemeFolder
+INFO 7/16/2018, 12:16:23 PM  cannot parse user config, use the default one
+INFO 7/16/2018, 12:16:23 PM  ------------------start------------------
+INFO 7/16/2018, 12:16:23 PM  typora version: 0.9.53
+INFO 7/16/2018, 12:16:30 PM  window.File && (function(){            File.setTheme();        })();
+INFO 7/16/2018, 12:16:44 PM  window.File && (function() {                File.setCanCollapsePinnedOutline(true);            })();
+INFO 7/16/2018, 12:16:45 PM  window.File && (function() {                File.setCanCollapsePinnedOutline(false);            })();
+INFO 7/16/2018, 12:16:48 PM  window.File && (function(){File.option.enableInlineMath = true;})();
+INFO 7/16/2018, 12:16:51 PM  window.File && (function(){File.option.enableHighlight = true;})();
+INFO 7/16/2018, 12:18:51 PM  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 7/16/2018, 12:19:04 PM  ------------------quit------------------
+INFO 7/16/2018, 3:28:20 PM  ------------------start------------------
+INFO 7/16/2018, 3:28:20 PM  typora version: 0.9.53
+INFO 7/16/2018, 3:30:49 PM  addRecentDocument
+INFO 7/16/2018, 3:42:35 PM  ------------------quit------------------
+INFO 7/16/2018, 3:43:01 PM  ------------------start------------------
+INFO 7/16/2018, 3:43:01 PM  typora version: 0.9.53
+INFO 7/16/2018, 3:43:01 PM  addRecentDocument
+INFO 7/16/2018, 5:40:38 PM  ------------------quit------------------
+INFO 7/18/2018, 8:34:16 AM  ------------------start------------------
+INFO 7/18/2018, 8:34:16 AM  typora version: 0.9.53
+INFO 7/18/2018, 8:35:07 AM  addRecentDocument
+INFO 7/18/2018, 1:25:54 PM  ------------------quit------------------
+INFO 7/19/2018, 7:32:37 AM  ------------------start------------------
+INFO 7/19/2018, 7:32:37 AM  typora version: 0.9.53
+INFO 7/19/2018, 7:35:31 AM  addRecentDocument
+INFO 7/19/2018, 8:24:49 AM  ------------------quit------------------
+INFO 7/21/2018, 11:05:31 AM  ------------------start------------------
+INFO 7/21/2018, 11:05:31 AM  typora version: 0.9.53
+INFO 7/21/2018, 1:06:02 PM  addRecentDocument
+INFO 7/21/2018, 6:34:21 PM  ------------------quit------------------
+INFO 7/23/2018, 11:12:00 AM  ------------------start------------------
+INFO 7/23/2018, 11:12:00 AM  typora version: 0.9.53
+INFO 7/23/2018, 11:12:00 AM  addRecentDocument
+INFO 7/23/2018, 11:12:09 AM  ------------------quit------------------
+INFO 7/23/2018, 11:30:46 AM  ------------------start------------------
+INFO 7/23/2018, 11:30:46 AM  typora version: 0.9.53
+INFO 7/23/2018, 11:31:12 AM  addRecentDocument
+INFO 7/23/2018, 11:55:18 AM  window.File && (function(){File.option.autoPairExtendSymbol = true;})();
+INFO 7/23/2018, 11:55:31 AM  window.File && (function() {                File.option.prettyIndent = true;            })();
+INFO 7/23/2018, 11:55:32 AM  window.File && (function() {                File.option.prettyIndent = false;            })();
+INFO 7/23/2018, 11:55:33 AM  window.File && (function() {                File.option.prettyIndent = true;            })();
+INFO 7/23/2018, 11:56:13 AM  window.File && (function(){File.option.useRelativePathForImg = true;})();
+INFO 7/23/2018, 6:44:51 PM  ------------------quit------------------
+INFO 7/27/2018, 11:54:22 AM  ------------------start------------------
+INFO 7/27/2018, 11:54:22 AM  typora version: 0.9.53
+INFO 7/27/2018, 11:54:22 AM  addRecentDocument
+INFO 7/27/2018, 11:54:33 AM  ------------------quit------------------
+INFO 7/27/2018, 12:01:09 PM  ------------------start------------------
+INFO 7/27/2018, 12:01:09 PM  typora version: 0.9.53
+INFO 7/27/2018, 12:01:09 PM  addRecentDocument
+INFO 7/27/2018, 12:25:22 PM  ------------------quit------------------
+INFO 7/30/2018, 11:32:45 AM  ------------------start------------------
+INFO 7/30/2018, 11:32:45 AM  typora version: 0.9.53
+INFO 7/30/2018, 11:58:59 AM  addRecentDocument
+INFO 7/30/2018, 8:13:30 PM  ------------------quit------------------
+INFO 7/31/2018, 1:53:37 PM  ------------------start------------------
+INFO 7/31/2018, 1:53:37 PM  typora version: 0.9.53
+INFO 7/31/2018, 2:48:53 PM  ------------------quit------------------

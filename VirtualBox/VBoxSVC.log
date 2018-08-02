@@ -1,0 +1,29 @@
+VirtualBox XPCOM Server 5.2.14 r122571 linux.amd64 (Jul  2 2018 19:16:54) release log
+00:00:00.001403 main     Log opened 2018-07-16T13:29:23.551755000Z
+00:00:00.001405 main     Build Type: release
+00:00:00.001407 main     OS Product: Linux
+00:00:00.001408 main     OS Release: 4.17.5-1-ARCH
+00:00:00.001409 main     OS Version: #1 SMP PREEMPT Sun Jul 8 17:27:31 UTC 2018
+00:00:00.001431 main     DMI Product Name: Inspiron 3543
+00:00:00.001442 main     DMI Product Version: A06
+00:00:00.001498 main     Host RAM: 7891MB (7.7GB) total, 5381MB (5.2GB) available
+00:00:00.001502 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001502 main     Process ID: 6585
+00:00:00.001503 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003235 main     IPC socket path: /tmp/.vbox-russell-ipc/ipcd
+00:00:00.112507 nspr-2   VirtualBox: object creation starts
+00:00:00.114149 nspr-2   Home directory: '/home/russell/.config/VirtualBox'
+00:00:00.143194 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.145086 nspr-2   HostDnsMonitorProxy::notify
+00:00:00.149134 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.149777 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={0eb668d2-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.151026 nspr-2   VirtualBox: object created
+00:00:03.221126 nspr-3   Saving settings file "/home/russell/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.237051 nspr-2   Saving settings file "/home/russell/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.247213 nspr-3   Saving settings file "/home/russell/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.256831 nspr-3   Saving settings file "/home/russell/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.266416 nspr-2   Saving settings file "/home/russell/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.789783 main     VirtualBox: object deletion starts
+00:00:09.152993 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={9570b9d5-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:13.790345 main     {00007fa2c80160f0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:13.790769 main     VirtualBox: object deleted

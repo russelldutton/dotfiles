@@ -1,0 +1,19 @@
+VirtualBox GUI VM Selector Window 5.2.14 r122571 linux.amd64 (Jul  2 2018 19:16:54) release log
+00:00:00.435033 Log opened 2018-07-16T13:29:23.738619000Z
+00:00:00.435034 Build Type: release
+00:00:00.435036 OS Product: Linux
+00:00:00.435038 OS Release: 4.17.5-1-ARCH
+00:00:00.435039 OS Version: #1 SMP PREEMPT Sun Jul 8 17:27:31 UTC 2018
+00:00:00.435059 DMI Product Name: Inspiron 3543
+00:00:00.435068 DMI Product Version: A06
+00:00:00.435105 Host RAM: 7891MB (7.7GB) total, 5379MB (5.2GB) available
+00:00:00.435108 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.435109 Process ID: 6564
+00:00:00.435109 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.435129 Qt version: 5.11.1
+00:00:00.473958 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.473983 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.623271 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x34 x 1366x734
+00:00:00.651780 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.676835 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:00.678661 refreshCertificates/#3: Found 1/149 SSL certs we/you trust (previously 0/0).
